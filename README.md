@@ -13,3 +13,7 @@ This repository contains multiple packages written to understand and explore Go'
 3. Racing multiple goroutines to write to a single channel
 
 _Refer comments in pkg `dice` for more explanation_
+
+## LICENSE
+
+MIT
